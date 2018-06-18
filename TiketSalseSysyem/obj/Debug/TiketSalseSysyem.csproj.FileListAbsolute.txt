@@ -1,0 +1,5 @@
+C:\Users\David\documents\visual studio 2015\Projects\TiketSalseSysyem\TiketSalseSysyem\bin\Debug\TiketSalseSysyem.exe.config
+C:\Users\David\documents\visual studio 2015\Projects\TiketSalseSysyem\TiketSalseSysyem\bin\Debug\TiketSalseSysyem.exe
+C:\Users\David\documents\visual studio 2015\Projects\TiketSalseSysyem\TiketSalseSysyem\bin\Debug\TiketSalseSysyem.pdb
+C:\Users\David\documents\visual studio 2015\Projects\TiketSalseSysyem\TiketSalseSysyem\obj\Debug\TiketSalseSysyem.exe
+C:\Users\David\documents\visual studio 2015\Projects\TiketSalseSysyem\TiketSalseSysyem\obj\Debug\TiketSalseSysyem.pdb
